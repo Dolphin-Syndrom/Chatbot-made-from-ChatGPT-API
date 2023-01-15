@@ -1,6 +1,4 @@
-*Chatbot using ChatGPT API*
-
-This repository contains a chatbot implemented using the ChatGPT API from OpenAI. The chatbot is built using Python and utilizes the openai library to interact with the API.
+# **Chatbot using ChatGPT API**
 
 Requirements:
 Python 3.6 or later
